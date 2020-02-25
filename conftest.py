@@ -5,4 +5,4 @@ def supply_url():
 
 @pytest.fixture
 def create_user_json():
-	return "";
+	return "/JsonFiles/CreateUser.json";
